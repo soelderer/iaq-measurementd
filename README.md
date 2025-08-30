@@ -15,8 +15,7 @@ See https://github.com/soelderer/iaq-server for the server software.
 
 # Installation
 
-You may want to use the Debian binary package:
-https://diplomarbeit.soelder.xyz/releases
+You may want to use the Debian binary package found in the [releases](https://github.com/soelderer/iaq-measurementd/releases/latest).
 
 Alternatively the compilation process is described below.
 
@@ -28,7 +27,7 @@ Alternatively the compilation process is described below.
 
 ## Download
 
-Get the latest release from https://diplomarbeit.soelder.xyz/releases
+Get the latest source from [releases](https://github.com/soelderer/iaq-measurementd/releases/latest).
 
 ## Compile
 
